@@ -17,6 +17,6 @@ fill in the info
 if reg info meets the requirement, page will redirect to home page with congrats.
 if not, try different cases, the check points will handle all wrong cases.
 
-5> after register, if wants to register again, logout first
+5> after register, if wants to go back again, logout first
    by clicking the logout on Nav bar.
    
