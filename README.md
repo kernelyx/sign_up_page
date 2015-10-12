@@ -3,7 +3,7 @@ Using Express to create the sign up page.
 Clone the code, try following steps.
 
 1> cd code_folder
-   npm instsall
+  1.1> npm instsall
 
 2> start the server by running:
 nodemon app.js
