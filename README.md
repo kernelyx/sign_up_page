@@ -12,11 +12,11 @@ nodemon app.js
 localhost:3000
 
 4> check out the registration functionality:
-click on register on Navigation bar
-fill in the info 
+click on register in Navigation bar,
+fill out the info 
 if reg info meets the requirement, page will redirect to home page with congrats.
 if not, try different cases, the check points will handle all wrong cases.
 
-5> after register, if wants to go back again, logout first
-   by clicking the logout on Nav bar.
+5> after register, if wants to re-try it, logout first
+   by clicking the logout to redirect.
    
